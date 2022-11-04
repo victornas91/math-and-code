@@ -1,2 +1,2 @@
 # math-and-code
-Implementing mathematical challenges and algorithms in C
+Solving mathematical challenges and algorithms in C
